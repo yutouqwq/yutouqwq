@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**yutouqwq/yutouqwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a undergraduate student in the Beijing University of Posts and Telecommunications.
+- 🌱 I’m currently learning golang and react.
+- 📫 How to reach me: [yutouqwq@bupt.edu.cn](mailto:yutouqwq@bupt.edu.cn)
 
-Here are some ideas to get you started:
+### Some stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/yutouqwq/yutouqwq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutouqwq&layout=compact&langs_count=6&card_width=495" />
+  </br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yutouqwq&layout=compact" />
+  </br>
+</a>
