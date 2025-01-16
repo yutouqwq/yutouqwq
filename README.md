@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a undergraduate student in the Beijing University of Posts and Telecommunications.
+- 🔭 I’m an undergraduate student in the Beijing University of Posts and Telecommunications.
 - 🌱 I’m currently learning golang and react.
 - 📫 How to reach me: [yutouqwq@bupt.edu.cn](mailto:yutouqwq@bupt.edu.cn)
 
